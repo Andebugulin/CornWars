@@ -112,8 +112,7 @@ _"Rediscover the beauty of life, you must. Within yourself, the answers lie."_ -
 
 - _Story:_
   > I tried a
-
-lot of things for myself. The main idea was to keep myself more or less busy and not spend a lot of time on social media. I valued time spent learning new skills or honing existing ones more than wasting my time on social media. So, I learned how to juggle, wheelie on a bike, do origami, draw, play the piano, improve my English, and many other things that I won't share with you To keep a little mystery. For instance, I felt cool showing off my origamis and my cool interior. I had some pictures painted in a specific manner, and I had Baby Yoda on my wall in the Sahara Desert :)
+  > lot of things for myself. The main idea was to keep myself more or less busy and not spend a lot of time on social media. I valued time spent learning new skills or honing existing ones more than wasting my time on social media. So, I learned how to juggle, wheelie on a bike, do origami, draw, play the piano, improve my English, and many other things that I won't share with you To keep a little mystery. For instance, I felt cool showing off my origamis and my cool interior. I had some pictures painted in a specific manner, and I had Baby Yoda on my wall in the Sahara Desert :)
 
 **Interactive Project:**
 

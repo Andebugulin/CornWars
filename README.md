@@ -40,16 +40,16 @@ _"Rediscover the beauty of life, you must. Within yourself, the answers lie."_ -
 
 **Description:** In the vast galaxy, Jedi Knights know the importance of a clear and organized mind. The clutter of physical spaces can lead to distractions and disturbances in the Force. This chapter explores the art of decluttering to maintain an orderly and serene environment.
 
-**Project:** Develop a **Day Planner** application to help Jedi Padawans and Masters alike schedule their daily tasks, cleaning routines, and meditation times to keep their spaces in harmony.
-
-- _Story:_
-  > When I was a kid, I lived in a pretty messy room. Shirts and pants on the sofa, a desk cluttered with papers, and a floor that was never cleared by myself—my parents did everything. When I started living on my own at 17, I realized how hard it is to keep everything organized. So, I cleaned up, decided on perfect places for almost everything, and made it a habit to clean my room once a week. Sometimes, life gets messy, but it's normal. Just remember to try and keep things clean. My football coach always said we win the match by how we behave in the changing room, how we talk to our parents, and how we show respect. I think he was right!
+**Project:** Developed a **Day Planner** application to help Jedi Padawans and Masters alike schedule their daily tasks, cleaning routines, and meditation times to keep their spaces in harmony.
 
 **Interactive Project:**
 
 <p align="center">
-  <a href="https://github.com/yourusername/Day-Planner"><img src="./day_planner_project.png" alt="Day Planner Project" width="400"></a>
+  <a href="https://github.com/Andebugulin/telegram_bot/tree/master"><img src="./PlaniriumBot.png" alt="Day Planner Project" width="400"></a>
 </p>
+
+- _Story:_
+  > When I was a kid, I lived in a pretty messy room. Shirts and pants on the sofa, a desk cluttered with papers, and a floor that was never cleared by myself—my parents did everything. When I started living on my own at 17, I realized how hard it is to keep everything organized. So, I cleaned up, decided on perfect places for almost everything, and made it a habit to clean my room once a week. Sometimes, life gets messy, but it's normal. Just remember to try and keep things clean. My football coach always said we win the match by how we behave in the changing room, how we talk to our parents, and how we show respect. I think he was right!
 
 ---
 
